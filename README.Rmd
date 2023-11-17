@@ -11,25 +11,11 @@ knitr::opts_chunk$set(
 )
 ```
 
-# bipolar_disorders_ schizophrenia_research
+# Handgrip strength predicts physical and psychological domains of quality of life, but not social and environmental domains.
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of bipolar_disorders_ schizophrenia_research is to ...
+This repository consists of scripts related of data analysis of the research that investigated the association between handgrip strength with quality of life in different domains of quality of life.
 
-What is special about using `README.Rmd` instead of just `README.md`? You can include R chunks like so:
-
-```{r cars}
-summary(cars)
-```
-
-You'll still need to render `README.Rmd` regularly, to keep `README.md` up-to-date.
-
-You can also embed plots, for example:
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
-
-In that case, don't forget to commit and push the resulting figure files, so they display on GitHub.
+The research was published in the Brazilian Journal of Global Health and can be checked in detail in the [link](https://periodicos.unisa.br/index.php/saudeglobal/article/view/532)
